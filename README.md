@@ -1,48 +1,45 @@
-Markdown
+# 🚀 Data Optimization & Business Analytics
 
-# 🚀 Data_Optimization_&_Business_Analytics
+### **Data Science Portfolio for Decision Improvement and Operational Efficiency**
 
-### **Portofolio Solusi Data Science untuk Peningkatan Keputusan dan Efisiensi Operasional**
-
-|  **Role Fokus**  | Data Analyst / Operations Optimizer                                                                          |
-| :--------------: | :----------------------------------------------------------------------------------------------------------- |
-| **Teknik Kunci** | Uji T-Test, PCA, K-Means, ARIMA, Random Forest, Deep Learning (GRU/LSTM), RFM, Content-Based Recommendation  |
-|     **Tools**    | Python, Jupyter Notebook, VS Code, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Statsmodels |
+| **Primary Role** | Data Analyst / Operations Optimizer |
+|:----------------:|-------------------------------------|
+| **Core Methods** | T-Test, PCA, K-Means, ARIMA, Random Forest, Deep Learning (GRU/LSTM), RFM Analysis, Content-Based Recommendation |
+| **Tools** | Python, Jupyter Notebook, VS Code, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Statsmodels |
 
 ---
 
-## 💡 Proyek Kunci & Dampak Bisnis (Terurut dari Terlama ke Terbaru)
+## 💡 Key Projects & Business Impact (Ordered from Oldest to Most Recent)
 
-|                     Fokus Analisis                    |                 Metrik Kunci                |                                                                                                                        Hasil & Kontribusi Operasional                                                                                                                       |
-| :---------------------------------------------------: | :-----------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|      **1. Pengukuran Efektivitas Training Sales**     |                **Uji T-Test**               |                                                               Analisis 25 transaksi: **p-value 0.018**, rata-rata transaksi meningkat >$100, menunjukkan pelatihan sales **signifikan meningkatkan performa**.                                                              |
-| **2. Optimasi Pengiriman Makanan (Machine Learning)** |          **R², MAE, Akurasi, MAPE**         | Prediksi waktu pengiriman dengan **RandomForestRegressor** (R² 0.85, MAE <5 menit), klasifikasi keterlambatan **88% akurat**, segmentasi pengemudi menjadi **3 cluster**, dan peramalan pesanan harian dengan **ARIMA (MAPE 7%)**, meningkatkan efisiensi operasional ~15%. |
-|      **3. Prediksi Pasar Saham (Deep Learning)**      |                **RMSE (GRU)**               |                                                          Model **GRU** (RMSE: **3.1**) menunjukkan *error* ~10% lebih rendah dibanding LSTM, menjadi alat bantu prediksi tren **jangka panjang** yang lebih akurat.                                                         |
-|       **4. Customer Segmentation & Rekomendasi**      | **RFM + K-Means & Content-Based Filtering** |                                               Segmentasi pelanggan untuk mengidentifikasi VIP dan strategi retensi. Sistem rekomendasi restoran **personalisasi** berbasis data logistik untuk pengalaman pengguna lebih baik.                                              |
-|             **5. Analisis Harga Properti**            |         **EDA & Outlier Detection**         |                                               Memproses 1,400+ data properti, menemukan faktor utama dan **5 outlier**, mengonfirmasi korelasi positif kuat antara luas properti dan harga jual, mendukung strategi investasi.                                              |
+| Analysis Focus | Key Metrics | Results & Operational Contribution |
+|:--------------:|:-----------:|:----------------------------------:|
+| **1. Sales Training Effectiveness Evaluation** | **T-Test** | Analyzed 25 transactions: **p-value = 0.018**, with an average transaction increase of >$100. The results indicate that the sales training program significantly improved performance. |
+| **2. Food Delivery Optimization (Machine Learning)** | **R², MAE, Accuracy, MAPE** | Delivery time prediction using **RandomForestRegressor** (R² = 0.85, MAE < 5 minutes), delay classification with **88% accuracy**, driver segmentation into **3 clusters**, and daily demand forecasting using **ARIMA (MAPE 7%)**, improving operational efficiency by approximately 15%. |
+| **3. Stock Market Prediction (Deep Learning)** | **RMSE (GRU)** | The **GRU model (RMSE: 3.1)** achieved approximately 10% lower error compared to LSTM, providing a more reliable tool for long-term trend prediction. |
+| **4. Customer Segmentation & Recommendation System** | **RFM + K-Means & Content-Based Filtering** | Customer segmentation to identify VIP users and retention strategies. Developed a personalized restaurant recommendation system based on logistics and user preference data. |
+| **5. Housing Price Analysis** | **EDA & Outlier Detection** | Processed 1,400+ property records, identified key price drivers and **5 outliers**, and confirmed a strong positive correlation between property size and selling price to support investment decisions. |
 
 ---
 
-## 🛠 Struktur Repositori
+## 🛠 Repository Structure
 
-Semua implementasi kode dan analisis dapat ditemukan dalam format Jupyter Notebook:
+All implementations and analyses are available in Jupyter Notebook format:
 
-```
-Data_Optimization_&_Business_Analytics/
+Data_Optimization_&Business_Analytics/
 ├── notebooks/
-│   ├── 01_Sales_Training_Hypothesis_Test.ipynb
-│   ├── 02_Delivery_Logistics_ML_&_Forecasting.ipynb
-│   ├── 03_Stock_Price_DeepLearning_GRU_LSTM.ipynb
-│   ├── 04_Customer_Segmentation_&_Recommender.ipynb
-│   └── 05_Housing_Price_EDA.ipynb
+│ ├── 01_Sales_Training_Hypothesis_Test.ipynb
+│ ├── 02_Delivery_Logistics_ML&Forecasting.ipynb
+│ ├── 03_Stock_Price_DeepLearning_GRU_LSTM.ipynb
+│ ├── 04_Customer_Segmentation&_Recommender.ipynb
+│ └── 05_Housing_Price_EDA.ipynb
 └── README.md
-```
+
 
 ---
 
-## 👤 Kontak & Profil
+## 👤 Contact & Profile
 
-Tertarik membahas lebih lanjut tentang solusi optimasi operasional berbasis data.
+I am open to discussing data-driven operational optimization solutions and collaboration opportunities.
 
-🔗 **LinkedIn:** [linkedin.com/in/riski-alfaizi](https://www.linkedin.com/in/riski-alfaizi)
-📩 **Email:** alfaizi1504@gmail.com
+🔗 **LinkedIn:** https://www.linkedin.com/in/riski-alfaizi  
+📩 **Email:** alfaizi1504@gmail.com  
